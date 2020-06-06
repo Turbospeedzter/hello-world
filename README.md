@@ -1,2 +1,1 @@
-# hello-world
-the beginnings of great creations
+TinDog Starting Files
